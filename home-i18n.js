@@ -1,7 +1,7 @@
 // Landing page texts in the 10 app languages. site.js falls back to English for any missing key.
 window.PAGE_T = {
   en: {
-    title: 'Pulse — Feel the pulse of your money', n_feat: 'Features', n_price: 'Pricing', n_faq: 'FAQ',
+    title: 'Pulse: Budget & Debt Tracker — Feel the pulse of your money', n_feat: 'Features', n_price: 'Pricing', n_faq: 'FAQ',
     kicker: 'Budget · Debts · Goals', h1a: 'Feel the pulse', h1b: 'of your money.',
     lead: 'One number for today, live bubbles for your spending, debts and goals in one place. No bank login, no account — everything stays on your phone.',
     t1: 'No bank login', t2: 'No account', t3: 'No ads', t4: '10 languages', cta_note: 'Free to start · Yearly Pro starts with a 7-day free trial',
@@ -75,7 +75,7 @@ window.PAGE_T = {
   },
 
   uz: {
-    title: 'Pulse — Pulingiz pulsini his qiling', n_feat: 'Imkoniyatlar', n_price: 'Narxlar', n_faq: 'Savollar',
+    title: 'Pulse: Byudjet va qarzlar — Pulingiz pulsini his qiling', n_feat: 'Imkoniyatlar', n_price: 'Narxlar', n_faq: 'Savollar',
     kicker: 'Byudjet · Qarzlar · Maqsadlar', h1a: 'Pulingiz pulsini', h1b: 'his qiling.',
     lead: "Bugun uchun bitta raqam, xarajatlaringiz uchun jonli pufakchalar, qarz va maqsadlar bir joyda. Bank login yo'q, akkaunt yo'q — hammasi telefoningizda qoladi.",
     t1: "Bank login yo'q", t2: "Akkaunt yo'q", t3: "Reklama yo'q", t4: '10 til', cta_note: "Boshlash bepul · Yillik Pro'da 7 kun bepul sinov",
@@ -149,7 +149,7 @@ window.PAGE_T = {
   },
 
   ru: {
-    title: 'Pulse — Почувствуйте пульс своих денег', n_feat: 'Возможности', n_price: 'Цены', n_faq: 'Вопросы',
+    title: 'Pulse: Бюджет и долги — Почувствуйте пульс своих денег', n_feat: 'Возможности', n_price: 'Цены', n_faq: 'Вопросы',
     kicker: 'Бюджет · Долги · Цели', h1a: 'Почувствуйте пульс', h1b: 'своих денег.',
     lead: 'Одно число на сегодня, живые пузыри для расходов, долги и цели в одном месте. Без входа в банк и без аккаунта — всё остаётся на вашем телефоне.',
     t1: 'Без входа в банк', t2: 'Без аккаунта', t3: 'Без рекламы', t4: '10 языков', cta_note: 'Бесплатный старт · годовой Pro — 7 дней бесплатно',
@@ -223,7 +223,7 @@ window.PAGE_T = {
   },
 
   es: {
-    title: 'Pulse — Siente el pulso de tu dinero', n_feat: 'Funciones', n_price: 'Precios', n_faq: 'Preguntas',
+    title: 'Pulse: Presupuesto y Deudas — Siente el pulso de tu dinero', n_feat: 'Funciones', n_price: 'Precios', n_faq: 'Preguntas',
     kicker: 'Presupuesto · Deudas · Metas', h1a: 'Siente el pulso', h1b: 'de tu dinero.',
     lead: 'Un número para hoy, burbujas vivas para tus gastos, deudas y metas en un solo lugar. Sin login del banco, sin cuenta: todo se queda en tu teléfono.',
     t1: 'Sin login del banco', t2: 'Sin cuenta', t3: 'Sin anuncios', t4: '10 idiomas', cta_note: 'Empieza gratis · Pro anual con 7 días de prueba',
@@ -297,7 +297,7 @@ window.PAGE_T = {
   },
 
   pt: {
-    title: 'Pulse — Sinta o pulso do seu dinheiro', n_feat: 'Recursos', n_price: 'Preços', n_faq: 'Perguntas',
+    title: 'Pulse: Orçamento e Dívidas — Sinta o pulso do seu dinheiro', n_feat: 'Recursos', n_price: 'Preços', n_faq: 'Perguntas',
     kicker: 'Orçamento · Dívidas · Metas', h1a: 'Sinta o pulso', h1b: 'do seu dinheiro.',
     lead: 'Um número para hoje, bolhas vivas para seus gastos, dívidas e metas num só lugar. Sem login do banco, sem conta — tudo fica no seu celular.',
     t1: 'Sem login do banco', t2: 'Sem conta', t3: 'Sem anúncios', t4: '10 idiomas', cta_note: 'Comece grátis · Pro anual com 7 dias grátis',
@@ -371,7 +371,7 @@ window.PAGE_T = {
   },
 
   tr: {
-    title: 'Pulse — Paranın nabzını hisset', n_feat: 'Özellikler', n_price: 'Fiyatlar', n_faq: 'SSS',
+    title: 'Pulse: Bütçe ve Borç Takibi — Paranın nabzını hisset', n_feat: 'Özellikler', n_price: 'Fiyatlar', n_faq: 'SSS',
     kicker: 'Bütçe · Borçlar · Hedefler', h1a: 'Paranın nabzını', h1b: 'hisset.',
     lead: 'Bugün için tek bir sayı, harcamaların için canlı baloncuklar, borçlar ve hedefler tek yerde. Banka girişi yok, hesap yok — her şey telefonunda kalır.',
     t1: 'Banka girişi yok', t2: 'Hesap yok', t3: 'Reklam yok', t4: '10 dil', cta_note: "Ücretsiz başla · Yıllık Pro'da 7 gün ücretsiz deneme",
@@ -445,7 +445,7 @@ window.PAGE_T = {
   },
 
   de: {
-    title: 'Pulse — Spür den Puls deines Geldes', n_feat: 'Funktionen', n_price: 'Preise', n_faq: 'FAQ',
+    title: 'Pulse: Budget & Schulden — Spür den Puls deines Geldes', n_feat: 'Funktionen', n_price: 'Preise', n_faq: 'FAQ',
     kicker: 'Budget · Schulden · Ziele', h1a: 'Spür den Puls', h1b: 'deines Geldes.',
     lead: 'Eine Zahl für heute, lebendige Blasen für deine Ausgaben, Schulden und Ziele an einem Ort. Kein Bank-Login, kein Konto – alles bleibt auf deinem Handy.',
     t1: 'Kein Bank-Login', t2: 'Kein Konto', t3: 'Keine Werbung', t4: '10 Sprachen', cta_note: 'Kostenlos starten · Pro jährlich 7 Tage gratis testen',
@@ -519,7 +519,7 @@ window.PAGE_T = {
   },
 
   fr: {
-    title: 'Pulse — Sentez le pouls de votre argent', n_feat: 'Fonctions', n_price: 'Tarifs', n_faq: 'FAQ',
+    title: 'Pulse: Budget et Dettes — Sentez le pouls de votre argent', n_feat: 'Fonctions', n_price: 'Tarifs', n_faq: 'FAQ',
     kicker: 'Budget · Dettes · Objectifs', h1a: 'Sentez le pouls', h1b: 'de votre argent.',
     lead: 'Un chiffre pour aujourd’hui, des bulles vivantes pour vos dépenses, dettes et objectifs au même endroit. Pas de connexion bancaire, pas de compte : tout reste sur votre téléphone.',
     t1: 'Sans connexion bancaire', t2: 'Sans compte', t3: 'Sans pub', t4: '10 langues', cta_note: 'Gratuit pour commencer · Pro annuel : 7 jours d’essai gratuit',
@@ -593,7 +593,7 @@ window.PAGE_T = {
   },
 
   id: {
-    title: 'Pulse — Rasakan denyut uangmu', n_feat: 'Fitur', n_price: 'Harga', n_faq: 'FAQ',
+    title: 'Pulse: Anggaran & Utang — Rasakan denyut uangmu', n_feat: 'Fitur', n_price: 'Harga', n_faq: 'FAQ',
     kicker: 'Anggaran · Utang · Target', h1a: 'Rasakan denyut', h1b: 'uangmu.',
     lead: 'Satu angka untuk hari ini, gelembung hidup untuk pengeluaranmu, utang dan target di satu tempat. Tanpa login bank, tanpa akun — semuanya tetap di ponselmu.',
     t1: 'Tanpa login bank', t2: 'Tanpa akun', t3: 'Tanpa iklan', t4: '10 bahasa', cta_note: 'Mulai gratis · Pro tahunan gratis 7 hari',
@@ -667,7 +667,7 @@ window.PAGE_T = {
   },
 
   ar: {
-    title: 'Pulse — اشعر بنبض أموالك', n_feat: 'الميزات', n_price: 'الأسعار', n_faq: 'الأسئلة',
+    title: 'Pulse: الميزانية والديون — اشعر بنبض أموالك', n_feat: 'الميزات', n_price: 'الأسعار', n_faq: 'الأسئلة',
     kicker: 'الميزانية · الديون · الأهداف', h1a: 'اشعر بنبض', h1b: 'أموالك.',
     lead: 'رقم واحد لليوم، وفقاعات حيّة لمصاريفك، والديون والأهداف في مكان واحد. بلا تسجيل دخول إلى البنك وبلا حساب — كل شيء يبقى على هاتفك.',
     t1: 'بلا دخول إلى البنك', t2: 'بلا حساب', t3: 'بلا إعلانات', t4: '10 لغات', cta_note: 'ابدأ مجانًا · تجربة Pro السنوي مجانية 7 أيام',
