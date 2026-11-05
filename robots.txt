@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vaxobjanovdev.github.io/pulse-landing/sitemap.xml
